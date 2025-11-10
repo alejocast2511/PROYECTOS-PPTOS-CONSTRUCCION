@@ -24,7 +24,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🧱 Presupuesto de Construcción")
+st.title("🧱 TERRAKON GROUP: Presupuesto de Construcción")
 st.write("Cálculo automático de ACU, AIU, IVA y reportes.")
 
 # -------------------------------------------------------------
