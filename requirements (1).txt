@@ -4,4 +4,4 @@ Pandas
 numpy
 matplotlib
 plotly
-qrcode
+io
